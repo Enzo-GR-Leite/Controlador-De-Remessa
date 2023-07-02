@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>favicon (1).ico</ApplicationIcon>
+    <StartupObject>TelaDeRemessas.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ace8c4caa309603337c069304bbed4bf.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="favicon (1).ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ControladoraDeRemessa\ControladoraDeRemessa.csproj" />
+  </ItemGroup>
+
+</Project>

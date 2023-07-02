@@ -1,0 +1,13 @@
+C:\Users\Citendo\Desktop\Remessa\ControladoraDeRemessa.exe
+C:\Users\Citendo\Desktop\Remessa\TelaDeRemessas.exe
+C:\Users\Citendo\Desktop\Remessa\ControladoraDeRemessa.deps.json
+C:\Users\Citendo\Desktop\Remessa\ControladoraDeRemessa.runtimeconfig.json
+C:\Users\Citendo\Desktop\Remessa\TelaDeRemessas.dll
+C:\Users\Citendo\Desktop\Remessa\TelaDeRemessas.deps.json
+C:\Users\Citendo\Desktop\Remessa\TelaDeRemessas.runtimeconfig.json
+C:\Users\Citendo\Desktop\Remessa\TelaDeRemessas.pdb
+C:\Users\Citendo\Desktop\Remessa\BouncyCastle.Crypto.dll
+C:\Users\Citendo\Desktop\Remessa\itextsharp.dll
+C:\Users\Citendo\Desktop\Remessa\Newtonsoft.Json.dll
+C:\Users\Citendo\Desktop\Remessa\ControladoraDeRemessa.dll
+C:\Users\Citendo\Desktop\Remessa\ControladoraDeRemessa.pdb

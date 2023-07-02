@@ -10,16 +10,17 @@ namespace ControladoraDeRemessa.Classes
     {
         public string Nome { get; set; }
         
-        List<Remessa> remessa = new List<Remessa>();
+        public Remessa Remessa { get; set; }
 
         public Cliente(String nome)
         {
             Nome= nome;
         }
 
-        public void AdicionarRemessa(Remessa novaRemessa)
+        public void AdicionarRemessa(int remessa)
         {
-            remessa.Add(novaRemessa);
+            Remessa = new Remessa(remessa);
         }
+
     }
 }

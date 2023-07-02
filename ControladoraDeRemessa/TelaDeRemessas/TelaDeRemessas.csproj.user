@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Citendo\Documents\GitHub\Controlador-De-Remessa\ControladoraDeRemessa\TelaDeRemessas\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AdicionarRemessaSaida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdicionarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdicionarPerfilModal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdicionarRemessaEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClienteSelecionado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastrarRemessa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RemessaSelecionada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelecionarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelecionarRemessa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
